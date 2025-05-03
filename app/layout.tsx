@@ -7,8 +7,8 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Anusha Surendran's Portfolio",
-	description: "A Full Stack Web Developer's Portfolio",
+	title: "Anusha Surendran  Portfolio",
+	description: "A Full Stack Web Developer Portfolio",
 };
 
 export default function RootLayout({
@@ -23,7 +23,7 @@ export default function RootLayout({
 				<meta name='viewport' content='width=device-width, initial-scale=1' />
 				<meta
 					name='description'
-					content="A Full Stack Web Developer's Portfolio"
+					content="A Full Stack Web Developer Portfolio"
 				/>
 				<meta name='theme-color' content='#000000' />
 			</head>

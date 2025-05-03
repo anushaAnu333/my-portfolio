@@ -40,8 +40,9 @@ const Hero = () => {
 					/>
 
 					<p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-						Hello! I'm Anusha Surendran, a Full Stack Web Developer crafting
-						interactive apps and scalable backends.
+						
+						Hello! I&apos;m Anusha Surendran, a Full Stack Web Developer
+						crafting interactive apps and scalable backends.
 					</p>
 					<p className='text-center mb-6 text-sm md:text-lg lg:text-xl text-white -400'>
 						Technologies: React, Node.js, MongoDB, GraphQL, AWS
