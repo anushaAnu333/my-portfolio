@@ -50,7 +50,7 @@ const techCategories = [
 const TechStackPage = () => (
 	<section id='techstacks' className='w-full py-20 '>
 		<h2 className='text-4xl font-bold text-center mb-12 text-white'>
-			My Tech Stack by Category
+			Tech Stacks
 		</h2>
 		<div className='p-6 mx-auto space-y-12 '>
 			{techCategories.map((cat) => (

@@ -7,7 +7,7 @@ import { projects } from "@/data";
 const RecentProjects = () => (
 	<div className='py-20 ' id='projects'>
 		<h1 className='heading text-center mb-10'>
-			A small selection of <span className='text-purple'>recent projects</span>
+			 <p >Recent projects</p>
 		</h1>
 		<div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 px-6 md:px-12'>
 			{projects.map((item) => (

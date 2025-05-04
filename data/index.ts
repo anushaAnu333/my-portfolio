@@ -1,5 +1,5 @@
 export const navItems = [
-	{ name: "Home", link: "#home" },
+	// { name: "Home", link: "#home" },
 	{ name: "About", link: "#about" },
 	{ name: "Techstacks", link: "#techstacks" },
 	{ name: "Projects", link: "#projects" },
@@ -125,15 +125,15 @@ export const projects = [
 		liveDemo: "https://real-estate-oiz1.vercel.app/",
 		github: "https://github.com/anushaAnu333/Real-Estate",
 	},
-	// {
-	// 	id: 3,
-	// 	title: "AI Image SaaS - Canva Application",
-	// 	des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-	// 	img: "/p3.svg",
-	// 	iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-	// 	liveDemo: "https://ui.aiimg.com",
-	// 	github: "https://github.com/yourusername/ai-image-saas",
-	// },
+	{
+		id: 3,
+		title: "Movie Website",
+		des: "A responsive, Vite-powered React app for browsing and searching movies",
+		img: "/movie.png",
+		iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+		liveDemo: "https://movie-website-cj98.vercel.app/",
+		github: "https://github.com/anushaAnu333/Movie-website",
+	},
 	// {
 	// 	id: 4,
 	// 	title: "Animated Apple iPhone 3D Website",
